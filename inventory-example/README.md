@@ -38,7 +38,4 @@ execute the following to start the different components `docker-compose up`. Thi
 instances of the sellable-inventory-calculator starting. The two separate instances allows you to test the forwarding of the request 
 from an instance that does not have the {Location, SKU} in its local State Store to an instance that does have it.
 
-Further details about this project can be found at: 
-Follow the instructions at https://sleeplessinslc.blogspot.com
-
 
