@@ -1,0 +1,8 @@
+com\welflex\example\inventory\repository\InventoryByLocationSkuRepository.class
+com\welflex\example\inventory\service\SellableInventoryUpdateListener.class
+com\welflex\example\inventory\model\InventoryByLocationSku.class
+com\welflex\example\inventory\controller\SellableInventoryServiceController.class
+com\welflex\example\inventory\dto\SellableInventory.class
+com\welflex\example\inventory\config\CassandraConfig.class
+com\welflex\example\inventory\SellableInventoryApplication.class
+com\welflex\example\inventory\config\KafkaConfig.class

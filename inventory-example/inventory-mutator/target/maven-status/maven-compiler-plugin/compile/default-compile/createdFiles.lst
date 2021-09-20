@@ -1,0 +1,4 @@
+com\welflex\example\inventory\controller\InventoryMutationController.class
+com\welflex\example\inventory\InventoryIngester.class
+com\welflex\example\inventory\dto\InventoryMutationAction.class
+com\welflex\example\inventory\config\KafkaConfig.class

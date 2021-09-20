@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Schemas
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: murkanda
+Implementation-Vendor-Id: com.welflex.example
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/inventory-ex
+ ample/schemas/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
